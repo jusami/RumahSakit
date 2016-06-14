@@ -1,0 +1,8 @@
+PERKENALAN
+==========
+
+Judul Project 	: Sistem Informasi Rumah Sakit Sederhana
+Nama Organisasi	: jusami 
+Nama Master	: Rizki Abdul Aziz
+Nama Member	: - Aidil Ali Akbar Nasution
+		  - Ody Adityawan Asri
